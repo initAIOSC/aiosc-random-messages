@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "aoshiro-random-messages",
   "version": "1.0.0",
   "description": "Random de mensages",
   "main": "src/index.js",
@@ -16,5 +16,5 @@
   "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal": true,
+  "preferGlobal": true
 }
